@@ -312,23 +312,23 @@ a:focus {
 }
 
 .brand_img-box.item-1 {
-  background-image: url(../images/item-1.jpg);
+  background-image: url(../images/bag-1.jpg);
 }
 
 .brand_img-box.item-2 {
-  background-image: url(../images/item-2.jpg);
+  background-image: url(../images/bag-2.png);
 }
 
 .brand_img-box.item-3 {
-  background-image: url(../images/item-3.jpg);
+  background-image: url(../images/bag-3.jpg);
 }
 
 .brand_img-box.item-4 {
-  background-image: url(../images/item-4.jpg);
+  background-image: url(../images/bag-4.png);
 }
 
 .brand_img-box.item-5 {
-  background-image: url(../images/item-5.jpg);
+  background-image: url(../images/bag-5.jpg);
 }
 
 .brand_img-box {
